@@ -1,0 +1,16 @@
+
+m	java:S116"SRename this field "MAX_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“þÊÍýÿÿÿÿ
+<
+java:S1170"!Make this final field static too.(“þÊÍýÿÿÿÿ
+\
+java:S1659"ADeclare "rear" and all following declarations on a separate line.(‹ÏÁ•ùÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(÷³Íóùÿÿÿÿ
+E	java:S106("+Replace this use of System.out by a logger.(ÙÏòüÿÿÿÿÿ
+E	java:S1068"+Replace this use of System.out by a logger.(Õ·±Âÿÿÿÿÿ
+@	java:S106G"+Replace this use of System.out by a logger.(¿ÇîÉ
+E	java:S106V"+Replace this use of System.out by a logger.(® ·ÿÿÿÿÿÿ
+E	java:S106["+Replace this use of System.out by a logger.(Ã­—‡úÿÿÿÿ
+@	java:S106]"+Replace this use of System.out by a logger.(º¼É°
+E	java:S106a"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ
+?	java:S106g"+Replace this use of System.out by a logger.(É®R
+@	java:S106}"+Replace this use of System.out by a logger.(÷è®Ç
